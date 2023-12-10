@@ -21,7 +21,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
 - <b> Quantum Many-body Physics</b>
   - [Quantum Entanglement in the Helium Atom]()
 
-<h2>📺 Recorded Talks & Tutorials on YouTube</h2>
+<h2>📺 Recorded Talks on YouTube</h2>
 
 - [A Talk on Colloidal Membranes - Virtual Leadership Alliance National Symposium 2020](https://www.youtube.com/watch?v=y8XOKPKYZvw)
 - [Entropic Forces in Brownian Motion Project](https://www.youtube.com/watch?v=hjmek4pmBJ4)
