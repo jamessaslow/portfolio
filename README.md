@@ -3,7 +3,7 @@
 This is a professional portfolio showcasing my work in quantum software engineering, quantum algorithms, and machine learning. 
 
 
-<h2>👨‍💻 Quantum Software Development Projects:</h2>
+<h2>👨‍💻 Quantum Software Development Projects</h2>
 
 - <b> High-Level Quantum Simulation Software Development</b>
   - [Quantum Circuit Simulator in Python]()
