@@ -8,7 +8,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
 - <b> Quantum Simulation Software Development</b>
   - [Quantum Circuit Simulator in Python]()
 - <b> Quantum Error Correction </b>
-  - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle]()
+  - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle](https://github.com/jamessaslow/grovers-imprecise-oracle)
 - <b> Quantum Algorithms</b>
   - [Analyzing QUBO Problems with DWave's API]()
   - [Variational Quantum Eigensolver Tutorial (Finding the Ground State Energy of H2)]()
