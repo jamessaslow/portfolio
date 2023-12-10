@@ -23,9 +23,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
 
 <h2>📺 Recorded Talks on YouTube</h2>
 
-- [A Talk on Colloidal Membranes - Virtual Leadership Alliance National Symposium 2020](https://www.youtube.com/watch?v=y8XOKPKYZvw)
-- [Entropic Forces in Brownian Motion Project](https://www.youtube.com/watch?v=hjmek4pmBJ4)
-- [A Derivation of the Matrix Exponential](https://www.youtube.com/watch?v=adlb8r7dO7w)
+- [My Talks Playlist](https://www.youtube.com/watch?v=y8XOKPKYZvw&list=PLlTM2LUMMTGrnFzYMk5mpvfbSER_krg7l)
 
 <h2> 📱 Connect with me:</h2>
 
