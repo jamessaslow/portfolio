@@ -23,7 +23,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
 
 <h2>📺 Recorded Talks on YouTube</h2>
 
-- [My Talks Playlist](https://www.youtube.com/watch?v=y8XOKPKYZvw&list=PLlTM2LUMMTGrnFzYMk5mpvfbSER_krg7l)
+- [My YouTube Playlist](https://www.youtube.com/watch?v=y8XOKPKYZvw&list=PLlTM2LUMMTGrnFzYMk5mpvfbSER_krg7l)
 
 <h2> 📱 Connect with me!</h2>
 
