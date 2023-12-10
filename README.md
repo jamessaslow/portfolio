@@ -28,8 +28,8 @@ This is a professional portfolio showcasing my work in quantum software engineer
 - [A Derivation of the Matrix Exponential](https://www.youtube.com/watch?v=adlb8r7dO7w)
 
 - <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/james-saslow-147138161/?trk=public-profile-join-page" />][linkedin]
 
-[Linkedin]: www.linkedin.com/in/james-saslow-147138161
+[Linkedin]: https://www.linkedin.com/in/james-saslow-147138161/?trk=public-profile-join-page
 
 
