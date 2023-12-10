@@ -12,6 +12,15 @@ This is a professional portfolio showcasing my work in quantum software engineer
 - <b> Quantum Algorithms</b>
   - [Analyzing QUBO Problems with DWave's API]()
   - [Variational Quantum Eigensolver Tutorial (Finding the Ground State Energy of H2)]()
+ 
+
+<h2>🎆 Quantum Information Science Projects</h2>
+
+- <b> Entangled Photon Generation</b>
+  - [A Simulated Action-Based Analysis of Spontaneous Parametric Down Conversion]()
+
+- <b> Many-body Physics</b>
+  - [Quantum Entanglement in the Helium Atom]()
 
 <h2>📺 Recorded Talks & Tutorials on YouTube</h2>
 
