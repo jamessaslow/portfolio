@@ -30,7 +30,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
 - <h2> 📱 Connect with me:</h2>
 
 - LinkedIn [<img align="left" alt="JamesSaslow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-- Personal Website [<img align="left" alt="JamesSaslow | Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />][Personal Website]
+- Personal Website [<img align="left" alt="JamesSaslow | Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />][Personal Website]
 
 [Linkedin]: https://www.linkedin.com/in/james-saslow-147138161/?trk=public-profile-join-page
 [Personal Website]: https://jamessaslow.github.io/home.html
