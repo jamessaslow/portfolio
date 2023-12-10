@@ -7,10 +7,8 @@ This is a professional portfolio showcasing my work in quantum software engineer
 
 - <b> High-Level Quantum Simulation Software Development</b>
   - [Quantum Circuit Simulator in Python]()
-
 - <b> Quantum Error Correction </b>
   - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle]()
-
 
 <h2>📺 Recorded Talks & Tutorials on YouTube</h2>
 
