@@ -26,3 +26,10 @@ This is a professional portfolio showcasing my work in quantum software engineer
 - [A Talk on Colloidal Membranes - Virtual Leadership Alliance National Symposium 2020](https://www.youtube.com/watch?v=y8XOKPKYZvw)
 - [Entropic Forces in Brownian Motion Project](https://www.youtube.com/watch?v=hjmek4pmBJ4)
 - [A Derivation of the Matrix Exponential](https://www.youtube.com/watch?v=adlb8r7dO7w)
+
+- <h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[Linkedin]: www.linkedin.com/in/james-saslow-147138161
+
+
