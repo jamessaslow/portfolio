@@ -19,7 +19,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
 - <b> Entangled Photon Generation</b>
   - [A Simulated Action-Based Analysis of Spontaneous Parametric Down Conversion]()
 - <b> Quantum Many-body Physics</b>
-  - [Quantum Entanglement in the Helium Atom]()
+  - [Quantum Entanglement in the Helium Atom](https://github.com/jamessaslow/quantum-helium)
 
 <h2>📺 Recorded Talks on YouTube</h2>
 
