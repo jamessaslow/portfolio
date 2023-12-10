@@ -17,7 +17,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
 
 - [A Talk on Colloidal Membranes - Virtual Leadership Alliance National Symposium 2020](https://www.youtube.com/watch?v=y8XOKPKYZvw)
 - [Entropic Forces in Brownian Motion Project](https://www.youtube.com/watch?v=hjmek4pmBJ4)
-- [The Matrix Exponential (A Derivation)](https://www.youtube.com/watch?v=adlb8r7dO7w)
+- [A Derivation of the Matrix Exponential](https://www.youtube.com/watch?v=adlb8r7dO7w)
 
 <h2>🌱 I'm Currently Learning ...</h2>
 
