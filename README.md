@@ -5,5 +5,5 @@ This is a professional portfolio showcasing my work in quantum software engineer
 
 <h2>👨‍💻 Quantum Software Development Projects:</h2>
 
-- <b> High-Level Quantum Simulation Software </b>
+- <b> High-Level Quantum Simulation Software</b>
   - [Quantum Circuit Simulator in Python](https://github.com/joshmadakor1/Algorithms-Practice)
