@@ -7,3 +7,9 @@ This is a professional portfolio showcasing my work in quantum software engineer
 
 - <b> High-Level Quantum Simulation Software Development</b>
   - [Quantum Circuit Simulator in Python]()
+
+<h2>📺 Recorded Talks & Tutorials on YouTube</h2>
+
+- [A Talk on Colloidal Membranes - Virtual Leadership Alliance National Symposium 2020](https://www.youtube.com/watch?v=y8XOKPKYZvw)
+- [Entropic Forces in Brownian Motion Project](https://www.youtube.com/watch?v=hjmek4pmBJ4)
+- [The Matrix Exponential - A Derivation](https://www.youtube.com/watch?v=adlb8r7dO7w)
