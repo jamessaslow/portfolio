@@ -10,6 +10,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
 - <b> Quantum Error Correction </b>
   - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle]()
 - <b> Quantum Algorithms</b>
+  - [Analyzing QUBO Problems with DWave's API]()
   - [Variational Quantum Eigensolver Tutorial (Finding the Ground State Energy of H2)]()
 
 <h2>📺 Recorded Talks & Tutorials on YouTube</h2>
