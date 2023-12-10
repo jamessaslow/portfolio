@@ -25,7 +25,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
 
 - [My Talks Playlist](https://www.youtube.com/watch?v=y8XOKPKYZvw&list=PLlTM2LUMMTGrnFzYMk5mpvfbSER_krg7l)
 
-<h2> 📱 Connect with me:</h2>
+<h2> 📱 Connect with me!</h2>
 
 - LinkedIn [<img align="left" alt="JamesSaslow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 🌐 [Personal Website]
