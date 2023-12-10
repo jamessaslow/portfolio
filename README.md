@@ -27,7 +27,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
 - [Entropic Forces in Brownian Motion Project](https://www.youtube.com/watch?v=hjmek4pmBJ4)
 - [A Derivation of the Matrix Exponential](https://www.youtube.com/watch?v=adlb8r7dO7w)
 
-- <h2> 📱 Connect with me:</h2>
+<h2> 📱 Connect with me:</h2>
 
 - LinkedIn [<img align="left" alt="JamesSaslow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 🌐 [Personal Website]
