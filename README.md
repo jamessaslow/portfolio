@@ -11,7 +11,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
   - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle](https://github.com/jamessaslow/grovers-imprecise-oracle)
 - <b> Quantum Algorithms</b>
   - [Analyzing QUBO Problems with DWave's API](https://github.com/jamessaslow/dwave-leap-qubos/tree/main)
-  - [Variational Quantum Eigensolver Tutorial (Finding the Ground State Energy of H2)](https://github.com/jamessaslow/VQE-Tutorial-H2)
+  - [Variational Quantum Eigensolver Tutorial](https://github.com/jamessaslow/VQE-Tutorial-H2)
  
 
 <h2>🎆 Quantum Information Science Projects</h2>
