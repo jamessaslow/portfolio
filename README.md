@@ -6,7 +6,8 @@ This is a professional portfolio showcasing my work in quantum software engineer
 <h2>👨‍💻 Quantum Software Development Projects</h2>
 
 - <b> Quantum Simulation Software Development</b>
-  - [Quantum Circuit Simulator in Python](https://github.com/jamessaslow/quantum-circuit-simulator)
+  - [Quantum Circuit Simulator in Python](https://github.com/jamessaslow/quantum-circuit-simulator) 
+- <b> Superconducting Qubit Research & Simulation </b>
 - <b> Quantum Error Correction </b>
   - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle](https://github.com/jamessaslow/grovers-imprecise-oracle)
 - <b> Quantum Algorithms</b>
