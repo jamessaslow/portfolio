@@ -13,7 +13,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
   - [Solving QUBO Problems with DWave's API](https://github.com/jamessaslow/dwave-leap-qubos/tree/main)
   - [Variational Quantum Eigensolver Tutorial](https://github.com/jamessaslow/VQE-Tutorial-H2)
  - <b> Qubit Research & Simulations </b>
-   - [Emulating a Single Transmon Qubit]()
+   - [Emulating a Single Transmon Qubit](https://github.com/jamessaslow/transmon-qubit-simulator)
 
 <h2>🎆 Quantum Information Science Projects</h2>
 
