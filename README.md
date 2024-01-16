@@ -7,13 +7,13 @@ This is a professional portfolio showcasing my work in quantum software engineer
 
 - <b> Quantum Simulation Software Development</b>
   - [Quantum Circuit Simulator in Python](https://github.com/jamessaslow/quantum-circuit-simulator) 
-- <b> Superconducting Qubit Research & Simulation </b>
 - <b> Quantum Error Correction </b>
   - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle](https://github.com/jamessaslow/grovers-imprecise-oracle)
 - <b> Quantum Algorithms</b>
   - [Solving QUBO Problems with DWave's API](https://github.com/jamessaslow/dwave-leap-qubos/tree/main)
   - [Variational Quantum Eigensolver Tutorial](https://github.com/jamessaslow/VQE-Tutorial-H2)
- 
+ - <b> Qubit Research & Simulations </b>
+  - [Emulating a Single Transmon Qubit]()
 
 <h2>🎆 Quantum Information Science Projects</h2>
 
