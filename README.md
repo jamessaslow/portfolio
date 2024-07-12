@@ -6,7 +6,7 @@ This is a professional portfolio showcasing my work in quantum software engineer
 <h2>👨‍💻 Quantum Software Development Projects</h2>
 
 - <b> Quantum Machine Learning </b>
-  - [Quantum Neural Networks for Solving Binary Classification Problems](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/tree/main?tab=readme-ov-file) 
+  - [Solving Binary Classification Problems with Quantum Neural Networks](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/tree/main?tab=readme-ov-file) 
 - <b> Quantum Simulation Software Development</b>
   - [Quantum Circuit Simulator in Python](https://github.com/jamessaslow/quantum-circuit-simulator) 
 - <b> Quantum Error Correction </b>
