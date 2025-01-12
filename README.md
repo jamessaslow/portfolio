@@ -4,6 +4,9 @@ This is a professional portfolio showcasing my work in quantum engineering.
 
 <h2>:bug: Quantum Hardware Projects </h2>
 
+- <b> Superconducting Quantum Computing </b>
+  - [Superconducting Quantum Chip Design & Optimization]
+  - [3D Transmon & Cavity QCED]
 
 <h2>👨‍💻 Quantum Software Development Projects</h2>
 
