@@ -1,5 +1,5 @@
 # Hi, I'm James!  
-I'm a [Physicist](#) and [Aspiring Quantum Engineer](#)
+I am a Quantum Engineer
 
 This is a professional portfolio showcasing my work in quantum engineering.
 
