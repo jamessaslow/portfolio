@@ -1,5 +1,6 @@
 # Hi, I'm James!  
 I am a Quantum Engineer
+🌐 [Personal Website](https://jamessaslow.github.io/home.html)
 
 This is a professional portfolio showcasing my work in quantum engineering.
 
@@ -36,4 +37,3 @@ This is a professional portfolio showcasing my work in quantum engineering.
 
 ## 📱 Connect with me!
 - [<img align="left" alt="JamesSaslow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/james-saslow-147138161/?trk=public-profile-join-page)
-- 🌐 [Personal Website](https://jamessaslow.github.io/home.html)
