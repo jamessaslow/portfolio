@@ -15,6 +15,7 @@ This is a professional portfolio showcasing my work in quantum engineering.
 - <b> Quantum Simulation Software Development</b>
   - [Quantum Circuit Simulator in Python](https://github.com/jamessaslow/quantum-circuit-simulator) 
 - <b> Quantum Error Correction </b>
+  - Utilizing Amplitude Amplification Action Based Selection to Play 2D Platformers (Q Reinforcement Learning) 
   - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle](https://github.com/jamessaslow/grovers-imprecise-oracle)
  - <b> Qubit Research & Simulations </b>
    - [Emulating a Single Transmon Qubit](https://github.com/jamessaslow/transmon-qubit-simulator)
