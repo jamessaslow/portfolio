@@ -17,7 +17,7 @@ This is a professional portfolio showcasing my work in quantum engineering.
 ## 👨‍💻 Quantum Software Development Projects
 - **Quantum Machine Learning**
   - [Solving Binary Classification Problems with Quantum Neural Networks](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/tree/main?tab=readme-ov-file)
-  - Utilizing Amplitude Amplification Action-Based Selection to Play 2D Platformers (Q Reinforcement Learning)
+  - [Utilizing Amplitude Amplification Action-Based Selection to Play 2D Platformers (Q Reinforcement Learning)](https://github.com/jamessaslow/Quantum-Dino/tree/main)
 - **Quantum Algorithms**
   - [Solving QUBO Problems with DWave's API](https://github.com/jamessaslow/dwave-leap-qubos/tree/main)
   - [Variational Quantum Eigensolver Tutorial](https://github.com/jamessaslow/VQE-Tutorial-H2)
