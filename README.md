@@ -11,6 +11,7 @@ This is a professional portfolio showcasing my work in quantum engineering.
 - **Superconducting Quantum Computing**
   - [Superconducting Quantum Chip Design & Optimization](#)
   - [3D Transmon & Cavity QCED](#)
+  - [Emulating a Single Transmon Qubit](https://github.com/jamessaslow/transmon-qubit-simulator)
 
 ## 👨‍💻 Quantum Software Development Projects
 - **Quantum Machine Learning**
@@ -23,8 +24,6 @@ This is a professional portfolio showcasing my work in quantum engineering.
   - [Quantum Circuit Simulator in Python](https://github.com/jamessaslow/quantum-circuit-simulator)
 - **Quantum Error Correction**
   - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle](https://github.com/jamessaslow/grovers-imprecise-oracle)
-- **Qubit Research & Simulations**
-  - [Emulating a Single Transmon Qubit](https://github.com/jamessaslow/transmon-qubit-simulator)
 
 ## 🎆 Quantum Information Science Projects
 - **Entangled Photon Generation**
