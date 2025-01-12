@@ -1,6 +1,8 @@
 <h1>Hi, I'm James! <br/>I'm a <a>Physicist</a> and <a>Aspiring Quantum Engineer</a></h1>
 
-This is a professional portfolio showcasing my work in quantum software engineering, quantum algorithms, and machine learning. 
+This is a professional portfolio showcasing my work in quantum engineering.
+
+<h2>:bug: Quantum Hardware Projects </h2>
 
 
 <h2>👨‍💻 Quantum Software Development Projects</h2>
