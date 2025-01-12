@@ -12,13 +12,13 @@ This is a professional portfolio showcasing my work in quantum engineering.
 
 - <b> Quantum Machine Learning </b>
   - [Solving Binary Classification Problems with Quantum Neural Networks](https://github.com/jamessaslow/quantum-neural-networks-binary-classification/tree/main?tab=readme-ov-file)
+  - Utilizing Amplitude Amplification Action Based Selection to Play 2D Platformers (Q Reinforcement Learning) 
 - <b> Quantum Algorithms</b>
   - [Solving QUBO Problems with DWave's API](https://github.com/jamessaslow/dwave-leap-qubos/tree/main)
   - [Variational Quantum Eigensolver Tutorial](https://github.com/jamessaslow/VQE-Tutorial-H2)
 - <b> Quantum Simulation Software Development</b>
   - [Quantum Circuit Simulator in Python](https://github.com/jamessaslow/quantum-circuit-simulator) 
 - <b> Quantum Error Correction </b>
-  - Utilizing Amplitude Amplification Action Based Selection to Play 2D Platformers (Q Reinforcement Learning) 
   - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle](https://github.com/jamessaslow/grovers-imprecise-oracle)
  - <b> Qubit Research & Simulations </b>
    - [Emulating a Single Transmon Qubit](https://github.com/jamessaslow/transmon-qubit-simulator)
