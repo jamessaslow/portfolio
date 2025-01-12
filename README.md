@@ -2,6 +2,9 @@
 
 This is a professional portfolio showcasing my work in quantum engineering.
 
+<h2>:newspaper: Paper Publications </h2>
+  - [A Localized Reality Appears To Underpin Quantum Circuits](https://arxiv.org/abs/2412.05456)
+  
 <h2>:bug: Quantum Hardware Projects </h2>
 
 - <b> Superconducting Quantum Computing </b>
