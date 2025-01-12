@@ -4,7 +4,8 @@ I am a Quantum Engineer
 This is a professional portfolio showcasing my work in quantum engineering.
 
 ## 📰 Paper Publications
-- [A Localized Reality Appears To Underpin Quantum Circuits](https://arxiv.org/abs/2412.05456)
+- **Quantum Foundations**
+  - [A Localized Reality Appears To Underpin Quantum Circuits](https://arxiv.org/abs/2412.05456)
 
 ## 🐛 Quantum Hardware Projects
 - **Superconducting Quantum Computing**
