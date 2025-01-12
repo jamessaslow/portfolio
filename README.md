@@ -28,7 +28,7 @@ This is a professional portfolio showcasing my work in quantum engineering.
 
 ## 🎆 Quantum Information Science Projects
 - **Entangled Photon Generation**
-  - [A Simulated Action-Based Analysis of Spontaneous Parametric Down Conversion](#)
+  - [A Simulated Action-Based Analysis of Spontaneous Parametric Down Conversion](https://github.com/jamessaslow/3WM-and-spontaneous-parametric-down-conversion/tree/main)
 - **Quantum Many-body Physics**
   - [Quantum Entanglement in the Helium Atom](https://github.com/jamessaslow/quantum-helium)
 
