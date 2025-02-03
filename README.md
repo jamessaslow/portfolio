@@ -10,7 +10,7 @@ This is a professional portfolio showcasing my work in quantum engineering.
 
 ## 🐛 Quantum Hardware Projects
 - **Superconducting Quantum Computing**
-  - [Superconducting Quantum Chip Design & Optimization](#)
+  - [Superconducting Quantum Chip Design & Optimization](https://github.com/jamessaslow/quantum-chip-design-and-optimization)
   - [3D Transmon & Cavity QCED](#)
   - [Emulating a Single Transmon Qubit](https://github.com/jamessaslow/transmon-qubit-simulator)
 
