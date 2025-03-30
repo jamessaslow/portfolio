@@ -30,7 +30,7 @@ This is a professional portfolio showcasing my work in quantum engineering.
 
 
 ## 🔢 Numerical Methods for Solving Partial Differential Equations
-- [Numerical Solutions to the Wave Equation]()
+- [Numerical Solutions to the Wave Equation](https://github.com/jamessaslow/wave-equation-numerics)
 
 
 ## 🎆 Quantum Information Science Projects
