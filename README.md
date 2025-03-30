@@ -28,6 +28,11 @@ This is a professional portfolio showcasing my work in quantum engineering.
 - **Quantum Error Correction**
   - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle](https://github.com/jamessaslow/grovers-imprecise-oracle)
 
+
+## ✖️ ➕ ➖ ➗ Numerical Methods for solving Partial Differential Equations
+- [Numerical Solutions to the Wave Equation]()
+
+
 ## 🎆 Quantum Information Science Projects
 - **Entangled Photon Generation**
   - [A Simulated Action-Based Analysis of Spontaneous Parametric Down Conversion](https://github.com/jamessaslow/3WM-and-spontaneous-parametric-down-conversion/tree/main)
