@@ -22,14 +22,14 @@ This is a professional portfolio showcasing my work in quantum engineering.
   - [Solving QUBO Problems with DWave's API](https://github.com/jamessaslow/dwave-leap-qubos/tree/main)
   - [Variational Quantum Eigensolver Tutorial](https://github.com/jamessaslow/VQE-Tutorial-H2)
 - **Ising Model Research**
-  - [Examining Macroscopic Thermal Behaviors of Maximum Cut Mapped to the Ising Model]()
+  - [Examining Macroscopic Thermal Behaviors of Maximum Cut Mapped to the Ising Model](https://github.com/jamessaslow/maxcut-ising-model)
 - **Quantum Simulation Software Development**
   - [Quantum Circuit Simulator in Python](https://github.com/jamessaslow/quantum-circuit-simulator)
 - **Quantum Error Correction**
   - [Recovering Solutions of Grover's Algorithm with an Imprecise Oracle](https://github.com/jamessaslow/grovers-imprecise-oracle)
 
 
-## ✖️ ➕ ➖ ➗ Numerical Methods for solving Partial Differential Equations
+## 🔢 Numerical Methods for Solving Partial Differential Equations
 - [Numerical Solutions to the Wave Equation]()
 
 
