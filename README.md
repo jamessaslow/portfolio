@@ -4,7 +4,7 @@ I am a Quantum Engineer
 
 This is a professional portfolio showcasing my work in quantum engineering.
 
-## 📰 Paper Publications / Preprints
+## 📰 Paper Publications & Preprints
 - **Quantum Foundations**
   - [A Localized Reality Appears To Underpin Quantum Circuits](https://arxiv.org/abs/2412.05456)
 
