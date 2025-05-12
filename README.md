@@ -10,7 +10,7 @@ This is a professional portfolio showcasing my work in quantum engineering.
 
 ## 🚀 Building the Quantum Community
 - **Hackathon Organizer**
-  -[Society of Quantum Engineers at SJSU Hackathon 2025](https://github.com/jamessaslow/sqe-quantum-hackathon-2025)
+  - [Society of Quantum Engineers Hackathon 2025](https://github.com/jamessaslow/sqe-quantum-hackathon-2025)
 
 ## 🐛 Quantum Hardware Projects
 - **Superconducting Quantum Computing**
