@@ -9,7 +9,7 @@ This is a professional portfolio showcasing my work in quantum engineering.
   - [A Localized Reality Appears To Underpin Quantum Circuits](https://arxiv.org/abs/2412.05456)
 
 ## 🚀 Building the Quantum Community
-- ** Hackathon Organizer **
+- **Hackathon Organizer**
   -[Society of Quantum Engineers at SJSU Hackathon 2025](https://github.com/jamessaslow/sqe-quantum-hackathon-2025)
 
 ## 🐛 Quantum Hardware Projects
